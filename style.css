@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    display:block;
+    margin: 100px auto;
+    
+}
+
+.eye{
+    display: inline-block;
+    margin: 0 200px;
+}
+
+.face{
+    border:2px black solid;
+   background-color: beige;
+}
+
+h1{
+
+text-align: center;
+}
+
+
+
+
